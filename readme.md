@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Andrea
 
 
-I'm a new programmer and are learning full stack development in Coding Dojo.
+I'm a new programmer and learning full stack development in Coding Dojo.
 
 <br/>
 
