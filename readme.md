@@ -1,11 +1,12 @@
 ### Hi there 👋, my name is Andrea
 
-
 I'm a new programmer and learning full stack development in Coding Dojo.
 
 <br/>
 
 Skills: Python / MySQL / JS / HTML / CSS / Bootstrap / AWS
+
+
 
 
 
