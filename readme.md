@@ -6,7 +6,6 @@ I'm a new programmer and learning full stack development in Coding Dojo.
 
 
 
-
 Skills: Python / MySQL / JS / HTML / CSS / Bootstrap / AWS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andreachou)  
